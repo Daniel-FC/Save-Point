@@ -1,0 +1,102 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: 0;
+  text-decoration: none;
+  list-style: none;
+}
+
+h2 {
+  text-align: center;
+  color: black;
+  margin-bottom: 25;
+}
+
+body {
+  background-color: #5f7c8a;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+nav {
+  height: 80px;
+  width: 100%;
+  background: #4a5f6a;
+}
+
+label.logo {
+  font-size: 35px;
+  font-weight: bold;
+  color: white;
+  padding: 0 100px;
+  line-height: 80px;
+}
+
+input {
+  width: 30%;
+  height: 35px;
+  border: 1px solid #ccc;
+  padding-left: 10px;
+  border-radius: 20px;
+}
+
+.fa-search {
+  color: white;
+}
+
+.container {
+  background-color: white;
+  width: 70%;
+  padding: 30px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  border-radius: 10px;
+  transform: translate(-50%, -50%);
+}
+
+#division {
+  margin-bottom: 15;
+}
+
+#horizontal {
+  display: flex;
+  width: 100%;
+}
+
+#icone {
+  margin-top: 3;
+  width: 4%;
+  color: #5f7c8a;
+}
+
+#titulo {
+  width: 96%;
+  color: #5f7c8a;
+}
+
+.btnLendo {
+  margin-left: 5;
+  width: 4%;
+  color: lightblue;
+}
+
+.btnQueroLer {
+  width: 4%;
+  color: orange;
+}
+
+.btnLeituraConcluida {
+  width: 4%;
+  color: green;
+}
+
+.btnNenhum {
+  width: 4%;
+  color: lightcoral;
+}
+
+img {
+  max-height: 30px;
+  margin-right: 5;
+}

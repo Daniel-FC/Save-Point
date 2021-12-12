@@ -1,0 +1,16 @@
+GBbanana a
+GBcaju b
+-
+alface "codigo_teste1"
+banana aa aaa
+caju bb bbb
+brocolis
+couve
+-lasanha (aa)
+-pizza ( a + 12 °algo° )
+-hotdog a -> a + 1
+-carne a de 1 ate 9 frango
+peixe
+-coxinha ( a > 1 ) empada
+pastel
+repolho 

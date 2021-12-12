@@ -1,0 +1,4 @@
+inicio
+declaracao
+procedimento
+fim 

@@ -1,0 +1,6 @@
+inicio
+declaracao
+int a; float b; char c;
+procedimento
+a;
+fim 

@@ -1,0 +1,4 @@
+(1) declaracao   RESERVADA
+(2) inicio   RESERVADA
+(3) procedimento   RESERVADA
+(4) fim   RESERVADA

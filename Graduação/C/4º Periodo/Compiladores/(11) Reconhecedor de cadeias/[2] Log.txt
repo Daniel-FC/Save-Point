@@ -1,0 +1,9 @@
+
+(2) alface 	[RESERVADA]
+(2) "codigo_teste1" 	[NOME DO ALGORITMO]
+(3) brocolis 	[RESERVADA]
+(4) couve 	[RESERVADA]
+(5) repolho 	[RESERVADA]
+
+
+Tabela de simbolos: { -alfce"odig_ts1bruvph }

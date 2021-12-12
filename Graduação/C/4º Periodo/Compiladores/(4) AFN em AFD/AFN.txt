@@ -1,0 +1,12 @@
+Inicial: A
+Final: DE
+A,a: BC
+A,b: #
+B,a: #
+B,b: BC
+C,a: D
+C,b: D
+D,a: DE
+D,b: BC
+E,a: A
+E,b: # 

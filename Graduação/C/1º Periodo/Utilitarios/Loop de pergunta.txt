@@ -1,0 +1,14 @@
+do{
+		
+	do{
+			
+		printf("\n\nDigite 0 caso tenha terminado. Digite 1 caso queira adicinar mais valores.\n");
+		scanf("%i", &rodar);
+			
+		if(rodar > 1 || rodar < 0){
+			printf("\nValor incorreto! tente novamente.");
+		}
+			
+	}while(rodar > 1 || rodar < 0);
+	
+}while(rodar == 1);

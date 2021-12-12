@@ -1,0 +1,10 @@
+Inicial: A
+Final: CD
+A,a: B
+A,b: #
+B,a: #
+B,b: CD
+C,a: CD
+C,b: #
+D,a: #
+D,b: # 

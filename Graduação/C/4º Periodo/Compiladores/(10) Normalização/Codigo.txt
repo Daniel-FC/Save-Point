@@ -1,0 +1,4 @@
+Inicial: S
+S: Aa|aB|#
+A: Bb|ba
+B: a 

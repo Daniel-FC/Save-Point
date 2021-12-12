@@ -1,0 +1,8 @@
+Inicial: A
+Final: C
+A,a: ABC
+A,b: #
+B,a: #
+B,b: BC
+C,a: C
+C,b: # 
